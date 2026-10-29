@@ -1,3 +1,7 @@
+//NAME:BONFACE MUTINDA
+//REG NO.:CT101/G/26574/25
+//COURSE:COMPUTER SCIENCE
+//UNIT:OOP 1
 #include <iostream>
 #include <iomanip>
 #include <string>
